@@ -71,5 +71,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# Exclude Security Files
+# Security 폴더 파일들은 무시
 /Assets/Security/
+
+# NuGet 패키지 관련 무시
+Assets/Packages/*.meta
