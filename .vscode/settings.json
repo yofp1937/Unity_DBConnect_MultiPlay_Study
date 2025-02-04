@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "DB, MultiPlay Study.sln"
+    "dotnet.defaultSolution": "Unity_DBConnect_MultiPlay_Study.sln"
 }
